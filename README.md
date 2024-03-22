@@ -2,7 +2,7 @@
 
 ## Overview
 
-TP-Shooter is a third-person shooter game developed using Unreal Engine 4. This project demonstrates the implementation of core gameplay mechanics in a 3D environment, focusing on character movement, combat, and AI behavior.
+A third-person shooter game developed using Unreal Engine 4. This project demonstrates the implementation of core gameplay mechanics in a 3D environment, focusing on character movement, combat, and AI behavior.
 
 ## Features
 
